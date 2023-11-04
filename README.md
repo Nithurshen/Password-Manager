@@ -35,7 +35,7 @@ Before you begin, ensure you have met the following requirements:
 
 1) Download the repository and unpack it.
 2) Run the 'Database.py' file once.
-3) Use the 'Login.py' to open and use the Password Manager.
+3) Run the 'Login.py' to use the Password Manager.
 
 
 
